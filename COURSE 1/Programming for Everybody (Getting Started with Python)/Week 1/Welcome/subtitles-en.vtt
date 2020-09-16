@@ -1,0 +1,488 @@
+WEBVTT
+
+1
+00:00:04.940 --> 00:00:07.560
+Hello, my name is Charles Severance.
+
+2
+00:00:07.560 --> 00:00:08.820
+I'm a Clinical Professor at
+
+3
+00:00:08.820 --> 00:00:11.130
+the University of Michigan
+School of Information,
+
+4
+00:00:11.130 --> 00:00:12.600
+and I'm your instructor
+for this course.
+
+5
+00:00:12.600 --> 00:00:15.020
+This course is a
+little different than
+
+6
+00:00:15.020 --> 00:00:16.430
+every programming
+course that I've
+
+7
+00:00:16.430 --> 00:00:18.110
+ever taught, or I've ever taken.
+
+8
+00:00:18.110 --> 00:00:19.910
+This course is dedicated to
+
+9
+00:00:19.910 --> 00:00:22.040
+the notion that
+every single person
+
+10
+00:00:22.040 --> 00:00:23.630
+on the planet needs
+to be able to write
+
+11
+00:00:23.630 --> 00:00:26.390
+programs and can write programs.
+
+12
+00:00:26.390 --> 00:00:29.195
+You do not have to
+have a bunch of math.
+
+13
+00:00:29.195 --> 00:00:30.440
+I do not expect math.
+
+14
+00:00:30.440 --> 00:00:31.520
+I do not expect that you've taken
+
+15
+00:00:31.520 --> 00:00:32.885
+any other programming classes.
+
+16
+00:00:32.885 --> 00:00:34.805
+I don't expect you know
+anything about computers.
+
+17
+00:00:34.805 --> 00:00:36.830
+I think no matter
+what your background
+
+18
+00:00:36.830 --> 00:00:39.065
+is, you can program.
+
+19
+00:00:39.065 --> 00:00:40.790
+That's why it's called
+Programming for
+
+20
+00:00:40.790 --> 00:00:43.130
+Everybody. I have
+a couple of goals.
+
+21
+00:00:43.130 --> 00:00:45.740
+Certainly, I want to
+teach you how to program.
+
+22
+00:00:45.740 --> 00:00:47.750
+But actually what I
+really want to do
+
+23
+00:00:47.750 --> 00:00:49.625
+is teach you how to take
+a programming class
+
+24
+00:00:49.625 --> 00:00:51.530
+because it turns out that most of
+
+25
+00:00:51.530 --> 00:00:54.350
+the other programming classes
+in the world are kind of difficult.
+
+26
+00:00:54.350 --> 00:00:56.785
+They sort of assume way too
+much and the teachers sort of
+
+27
+00:00:56.785 --> 00:00:58.330
+don't even realize how much
+
+28
+00:00:58.330 --> 00:01:00.110
+they're expecting from students.
+
+29
+00:01:00.110 --> 00:01:02.720
+So when you're done
+with this class,
+
+30
+00:01:02.720 --> 00:01:05.855
+you can go and take
+another beginning class.
+
+31
+00:01:05.855 --> 00:01:07.775
+And that way you have this as an
+
+32
+00:01:07.775 --> 00:01:10.110
+on-ramp to all of your
+programming activity.
+
+33
+00:01:10.110 --> 00:01:12.340
+And so I'm really excited
+that you're here.
+
+34
+00:01:12.340 --> 00:01:14.390
+Another thing that I
+want to do is I want
+
+35
+00:01:14.390 --> 00:01:15.965
+to teach you how to be a mentor.
+
+36
+00:01:15.965 --> 00:01:18.800
+I want to teach you how to
+be a teacher of programming.
+
+37
+00:01:18.800 --> 00:01:21.140
+So I want you to
+take all my ideas,
+
+38
+00:01:21.140 --> 00:01:23.195
+and I want to you to
+help the next person.
+
+39
+00:01:23.195 --> 00:01:25.865
+And the reason is that
+learning how to program
+
+40
+00:01:25.865 --> 00:01:30.930
+is a little sort of foggy,
+
+41
+00:01:30.930 --> 00:01:34.230
+uncomfortable, you
+get stuck on things,
+
+42
+00:01:34.230 --> 00:01:37.020
+and those things aren't
+hard, I assure you.
+
+43
+00:01:37.020 --> 00:01:38.340
+But when you're stuck on them,
+
+44
+00:01:38.340 --> 00:01:39.750
+they feel really hard.
+
+45
+00:01:39.750 --> 00:01:41.270
+And the best way to get unstuck
+
+46
+00:01:41.270 --> 00:01:42.815
+is get some help from somebody.
+
+47
+00:01:42.815 --> 00:01:44.480
+And if they're sitting
+right next to you,
+
+48
+00:01:44.480 --> 00:01:45.710
+and they can go, "Oh look.
+
+49
+00:01:45.710 --> 00:01:48.770
+You've just got to like add
+two spaces and it's fine."
+
+50
+00:01:48.770 --> 00:01:51.230
+And you're like, "Oh, that
+saved me a lot of time."
+
+51
+00:01:51.230 --> 00:01:55.085
+So I want you to be willing
+to help somebody else.
+
+52
+00:01:55.085 --> 00:01:57.170
+Another thing that's
+important to me is
+
+53
+00:01:57.170 --> 00:01:59.975
+that I want to create
+more teachers.
+
+54
+00:01:59.975 --> 00:02:03.030
+Whether they're at universities,
+or community colleges,
+
+55
+00:02:03.030 --> 00:02:04.870
+or high schools, or
+even middle schools,
+
+56
+00:02:04.870 --> 00:02:06.830
+or in professional situations.
+
+57
+00:02:06.830 --> 00:02:08.780
+I have given you all of
+
+58
+00:02:08.780 --> 00:02:11.360
+the materials for
+this course at a website.
+
+59
+00:02:11.360 --> 00:02:13.400
+They're all licensed
+under Creative Commons,
+
+60
+00:02:13.400 --> 00:02:15.635
+the slides, the autograders.
+
+61
+00:02:15.635 --> 00:02:19.264
+I want you to in a sense
+adopt this textbook,
+
+62
+00:02:19.264 --> 00:02:21.350
+and then use
+my teaching kit so that
+
+63
+00:02:21.350 --> 00:02:23.735
+you can become a teacher
+of this material,
+
+64
+00:02:23.735 --> 00:02:25.220
+because I don't think that I'm
+
+65
+00:02:25.220 --> 00:02:27.610
+naturally the only
+teacher of this.
+
+66
+00:02:27.610 --> 00:02:30.690
+And in particular, if you don't
+
+67
+00:02:30.690 --> 00:02:33.295
+speak English as
+your first language,
+
+68
+00:02:33.295 --> 00:02:34.790
+you might want to teach
+
+69
+00:02:34.790 --> 00:02:36.680
+this class in
+your native language.
+
+70
+00:02:36.680 --> 00:02:38.720
+And so that's another reason
+that I give you
+
+71
+00:02:38.720 --> 00:02:40.070
+these materials with
+
+72
+00:02:40.070 --> 00:02:42.910
+a free and open copyright
+that you can take them,
+
+73
+00:02:42.910 --> 00:02:45.085
+you can translate them
+into your language.
+
+74
+00:02:45.085 --> 00:02:48.260
+The book has been translated
+into several languages.
+
+75
+00:02:48.260 --> 00:02:49.670
+And that's really exciting.
+
+76
+00:02:49.670 --> 00:02:51.800
+Those books that have
+been translated are
+
+77
+00:02:51.800 --> 00:02:54.215
+usually free and available.
+
+78
+00:02:54.215 --> 00:02:55.820
+You can get print copies
+that are very
+
+79
+00:02:55.820 --> 00:02:58.190
+inexpensive and
+all the ecopies are free.
+
+80
+00:02:58.190 --> 00:03:01.520
+And so this notion that
+I create this kit,
+
+81
+00:03:01.520 --> 00:03:03.665
+that you can then change the kit.
+
+82
+00:03:03.665 --> 00:03:05.240
+You don't have to
+just take my class.
+
+83
+00:03:05.240 --> 00:03:06.680
+You can change it and you can
+
+84
+00:03:06.680 --> 00:03:08.995
+make it work for you locally.
+
+85
+00:03:08.995 --> 00:03:12.725
+And really, the overall
+goal of this is
+
+86
+00:03:12.725 --> 00:03:15.770
+more than just like teaching
+you one programming class.
+
+87
+00:03:15.770 --> 00:03:20.505
+I think that the entire
+technology marketplace, and
+
+88
+00:03:20.505 --> 00:03:22.460
+to some degree all of business in
+
+89
+00:03:22.460 --> 00:03:26.590
+general is becoming
+increasingly technical.
+
+90
+00:03:26.590 --> 00:03:30.285
+And too many people, young, old,
+
+91
+00:03:30.285 --> 00:03:33.390
+regardless of education,
+are shut out of
+
+92
+00:03:33.390 --> 00:03:35.660
+this sort of club where you
+
+93
+00:03:35.660 --> 00:03:38.105
+need to know something
+about technology.
+
+94
+00:03:38.105 --> 00:03:42.410
+And so that's why we're
+Programming for Everybody.
+
+95
+00:03:42.410 --> 00:03:47.045
+Regardless of geography,
+regardless of ability to pay,
+
+96
+00:03:47.045 --> 00:03:49.715
+regardless of if you
+have any disabilities,
+
+97
+00:03:49.715 --> 00:03:53.345
+I want Programming for
+Everybody to be everybody.
+
+98
+00:03:53.345 --> 00:03:55.970
+I want when to just expand
+
+99
+00:03:55.970 --> 00:03:57.470
+forever the number of
+
+100
+00:03:57.470 --> 00:03:58.985
+people who are capable
+of programming.
+
+101
+00:03:58.985 --> 00:04:02.525
+It's an open
+self-sustaining ecosystem,
+
+102
+00:04:02.525 --> 00:04:06.065
+and have you be part of
+that self-sustaining ecosystem.
+
+103
+00:04:06.065 --> 00:04:08.135
+So again, welcome to the class.
+
+104
+00:04:08.135 --> 00:04:09.650
+I look forward to what
+you do and I look
+
+105
+00:04:09.650 --> 00:04:12.150
+forward to seeing you
+throughout the class.
